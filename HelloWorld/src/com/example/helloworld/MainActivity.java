@@ -23,5 +23,6 @@ public class MainActivity extends Activity {
 	        v2.setCameraDistance(45.0f);
 	        v2.setDrawingCacheEnabled(true);
 	        v2.setZOrderOnTop(true);
+	        /**Branch 1 demo*/
 	}
 }
